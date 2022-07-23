@@ -7,4 +7,6 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzun aldığınız link gelecek)
 
+gh repo clone okkeskilinc/kodluyoruzilkrepo
+
 
